@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendricksLCamille&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://count.getloli.com/get/@stefan11111?theme=gelbooru](https://count.getloli.com/@KendricksLCamille?name=KendricksLCamille&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@KendricksLCamille?name=KendricksLCamille&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 
 **Senior Software Engineer**
