@@ -1,3 +1,10 @@
+![Kendricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendricksLCamille&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendricksLCamille&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![]([https://count.getloli.com/get/@stefan11111?theme=gelbooru](https://count.getloli.com/@KendricksLCamille?name=KendricksLCamille&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto))
+
+
 **Senior Software Engineer**
 
 Driven by a passion for solving business problems, I have developed a deep expertise across all aspects of the software development life cycle. My experience spans project management, lead development, and supporting roles on both professional and personal projects. I am a self-learner who thrives on continuous improvement, quickly adapting to new technologies and development paradigms. My current focus is on C# and XServer, with aspirations to expand into Godot and Redot in the future.
